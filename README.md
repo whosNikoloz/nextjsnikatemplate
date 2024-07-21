@@ -1,4 +1,4 @@
-# Next.js & NextUI Template
+# Next.js || NextUI || MagicUi || Shadcn/ui || i18n || Nikoloz's Template
 
 This is a template for creating applications using Next.js 14 (app directory) , NextUI (v2) , MageicUi , Shadcn/ui , i18n.
 
@@ -15,7 +15,7 @@ This is a template for creating applications using Next.js 14 (app directory) , 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [next-themes](https://github.com/pacocoursey/next-themes)
-- [i18n-Language-Switch]
+- [i18n-Language-Switch](https://nextjs.org/docs/pages/building-your-application/routing/internationalization)
 
 ## How to Use
 
