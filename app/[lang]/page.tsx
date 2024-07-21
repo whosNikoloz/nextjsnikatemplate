@@ -37,7 +37,6 @@ export default function Home({
             radius: "full",
             variant: "shadow",
           })}
-          href={siteConfig.links.docs}
         >
           {lang == "en" ? "Get Started" : "დაწყება"}
         </Link>

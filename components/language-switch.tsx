@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 /* eslint-disable prettier/prettier */
 "use client";
 
@@ -108,9 +107,9 @@ export const LanguageSwitch: FC<LanguageSwitchProps> = ({
         })}
       >
         {isSelected || isSSR ? (
-          <GeorgiaIcon size={22} />
+          <GeorgiaIcon size={25} />
         ) : (
-          <EnglishIcon size={22} />
+          <EnglishIcon size={25} />
         )}
       </div>
     </Component>

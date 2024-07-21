@@ -14,10 +14,11 @@ import { link as linkStyles } from "@nextui-org/theme";
 import NextLink from "next/link";
 import clsx from "clsx";
 
+import { LanguageSwitch } from "./language-switch";
+
 import { siteConfig } from "@/config/site";
 import { ThemeSwitch } from "@/components/theme-switch";
 import { GithubIcon, SearchIcon, Logo } from "@/components/icons";
-import { LanguageSwitch } from "./language-switch";
 
 export const Navbar = () => {
   const searchInput = (
@@ -56,6 +57,7 @@ export const Navbar = () => {
               <NextLink
                 className={clsx(
                   linkStyles({ color: "foreground" }),
+                  // eslint-disable-next-line prettier/prettier
                   "data-[active=true]:text-primary data-[active=true]:font-medium"
                 )}
                 color="foreground"
