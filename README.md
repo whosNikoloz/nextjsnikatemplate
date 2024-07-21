@@ -1,6 +1,6 @@
 # Next.js & NextUI Template
 
-This is a template for creating applications using Next.js 14 (app directory) and NextUI (v2).
+This is a template for creating applications using Next.js 14 (app directory) , NextUI (v2) , MageicUi , Shadcn/ui , i18n.
 
 [Try it on CodeSandbox](https://githubbox.com/nextui-org/next-app-template)
 
@@ -8,11 +8,14 @@ This is a template for creating applications using Next.js 14 (app directory) an
 
 - [Next.js 14](https://nextjs.org/docs/getting-started)
 - [NextUI v2](https://nextui.org/)
+- [MagicUi](https://magicui.design/)
+- [Shadcn/ui](https://ui.shadcn.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Tailwind Variants](https://tailwind-variants.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [next-themes](https://github.com/pacocoursey/next-themes)
+- [i18n-Language-Switch]
 
 ## How to Use
 
@@ -21,7 +24,7 @@ This is a template for creating applications using Next.js 14 (app directory) an
 To create a new project based on this template using `create-next-app`, run the following command:
 
 ```bash
-npx create-next-app -e https://github.com/nextui-org/next-app-template
+npx create-next-app -e https://github.com/whosNikoloz/nextjsnikatemplate.git
 ```
 
 ### Install dependencies
@@ -50,4 +53,4 @@ After modifying the `.npmrc` file, you need to run `pnpm install` again to ensur
 
 ## License
 
-Licensed under the [MIT license](https://github.com/nextui-org/next-app-template/blob/main/LICENSE).
+Licensed under the [MIT license](https://github.com/whosNikoloz/nextjsnikatemplate/blob/master/LICENSE).
